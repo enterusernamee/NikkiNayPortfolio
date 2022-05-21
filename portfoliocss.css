@@ -6,13 +6,13 @@
   
   body {
     color: #39a6b2;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Koulen, Arial, sans-serif;
   }
   
   /* HEADER / NAV BAR STYLES START */
   
   header {
-    padding: 20px 35px;
+    padding: 40px 70px;
     background-color: dark rgb(43, 38, 38);
   }
   
@@ -46,8 +46,6 @@
   
   /* HEADER / NAVBAR STYLES END */
   
-  
-  
   /* FOOTER STYLES START */
   footer {
     background: black;
@@ -75,7 +73,7 @@
   
   /* STYLE ALL SECTION TAGS */
   section {
-    padding: 60px;
+    padding: 120px;
   }
   
   /* HERO STYLES START */
@@ -149,7 +147,7 @@
   }
   /* SECTION TITLE STYLES END */
   
-  /* WHAT WE DO STYLES */
+  /* WHAT I DO STYLES */
   .intro {
     text-align: center;
   }
@@ -161,10 +159,10 @@
     margin: 0 auto;
     font-size: 20px;
   }
-  /* WHAT YOU DO STYLES END */
+  /* WHAT I DO STYLES END */
   
   
-  /* WHAT YOU DO STYLES START */
+  /* WHAT I DO STYLES START */
   .steps { 
     text-align: center;
     background: #fce138;
@@ -193,13 +191,24 @@
     color: #39a6b2;
     font-size: 23px;
   }
-  /* WHAT YOU DO STYLES END */
+  /* WHAT I DO STYLES END */
   
-  /* MEET THE TRAINERS START */
-  .trainers {
-    text-align: center;
+  /* portfolio */
+  img {
+    width: 100%;
+    height: auto;
+    vertical-align: middle;
   }
   
+  .pics_in_a_row {
+    display: flex;
+  }
+
+
+  .projects {
+    text-align: center;
+  }
+
   .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
@@ -220,7 +229,7 @@
   }
   
   .trainer-bio h3 {
-    font-size: 32px;
+    font-size: 50px;
     margin-bottom: 8px;
   }
   
@@ -243,7 +252,7 @@
   }
   
   .contact h2 {
-    color: #fce138;
+    color: #610969;
   }
   
   .contact-info iframe {
@@ -261,7 +270,7 @@
   }
   
   .contact-info h3 {
-    color: #fce138;
+    color:#c4173c;
     font-size: 32px;
   }
   
