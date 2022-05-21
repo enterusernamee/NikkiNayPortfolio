@@ -43,7 +43,6 @@
     font-weight: lighter;
     font-size: 22px;
   }
-  
   /* HEADER / NAVBAR STYLES END */
   
   /* FOOTER STYLES START */
@@ -147,7 +146,7 @@
   }
   /* SECTION TITLE STYLES END */
   
-  /* WHAT I DO STYLES */
+  /* about me STYLES */
   .intro {
     text-align: center;
   }
@@ -159,10 +158,10 @@
     margin: 0 auto;
     font-size: 20px;
   }
-  /* WHAT I DO STYLES END */
+  /* about me STYLES END */
   
   
-  /* WHAT I DO STYLES START */
+  /* portfolio START */
   .steps { 
     text-align: center;
     background: #fce138;
@@ -191,7 +190,7 @@
     color: #39a6b2;
     font-size: 23px;
   }
-  /* WHAT I DO STYLES END */
+  /* portfolio END */
   
   /* portfolio */
   img {
