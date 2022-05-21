@@ -1,7 +1,7 @@
-# Nikki Nay Portfolio
+## Nikki Nay Portfolio
 
 ## Purpose
-Illustrate my portfolio 
+A website that showcases my skills
 
 ## Built With
 * HTML
@@ -11,4 +11,8 @@ Illustrate my portfolio
 https://github.com/enterusernamee/portfolio.git
 
 ## Contribution
+<<<<<<< HEAD
 Made with ❤️  
+=======
+Made with Love
+>>>>>>> 2ca6f8952df64963b92500e410196f520eeaab1e
