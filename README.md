@@ -10,9 +10,3 @@ A website that showcases my skills
 ## Website
 https://github.com/enterusernamee/portfolio.git
 
-## Contribution
-<<<<<<< HEAD
-Made with ❤️  
-=======
-Made with Love
->>>>>>> 2ca6f8952df64963b92500e410196f520eeaab1e
